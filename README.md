@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Michael B.</h1>
 <h3 align="center">I'm just a regular guy learning about CTF's, machine learning, and cybersecurity.</h3>
 
